@@ -818,7 +818,7 @@ Lab 2-1을 완료했다면 다음 실습으로 진행하세요:
   - Model Registry 활용
   - S3에 모델 저장
 
-- **Lab 2-3**: KServe를 활용한 고급 모델 서빙
+- **Lab 2-3**: KServe를 활용한 모델 서빙
   - InferenceService 배포
   - 자동 스케일링
   - 카나리 배포
